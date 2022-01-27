@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6d5515e.chunk.css",
+    "main.js": "/static/js/main.8a3ee5aa.chunk.js",
+    "main.js.map": "/static/js/main.8a3ee5aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7b2b723.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7b2b723.js.map",
+    "static/js/2.8ba32bcc.chunk.js": "/static/js/2.8ba32bcc.chunk.js",
+    "static/js/2.8ba32bcc.chunk.js.map": "/static/js/2.8ba32bcc.chunk.js.map",
+    "static/js/3.712f4386.chunk.js": "/static/js/3.712f4386.chunk.js",
+    "static/js/3.712f4386.chunk.js.map": "/static/js/3.712f4386.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a6d5515e.chunk.css.map": "/static/css/main.a6d5515e.chunk.css.map",
+    "static/js/2.8ba32bcc.chunk.js.LICENSE.txt": "/static/js/2.8ba32bcc.chunk.js.LICENSE.txt",
+    "static/media/bodhlogo.dcb1bf87.png": "/static/media/bodhlogo.dcb1bf87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b2b723.js",
+    "static/js/2.8ba32bcc.chunk.js",
+    "static/css/main.a6d5515e.chunk.css",
+    "static/js/main.8a3ee5aa.chunk.js"
+  ]
+}
